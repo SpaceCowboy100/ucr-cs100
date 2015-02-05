@@ -1,7 +1,8 @@
-11 / 0
+14 / 0
 
 +5 pts for typo fix 32e316a
 +2 pts for typo fix 7cb0008
 +1 pt for typo fix 23e8259
 +3 pts for 56c053a
++3 pts for adding a syscall to checksyscalls.sh
 
