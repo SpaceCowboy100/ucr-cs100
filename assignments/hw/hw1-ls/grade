@@ -1,4 +1,8 @@
- 85   / 100  
+85 / 100
+
+-25: -R flag doesn't work
+
++10: coloring works only for -l
 
 
 
