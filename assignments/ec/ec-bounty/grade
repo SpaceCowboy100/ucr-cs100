@@ -1,4 +1,4 @@
-16 / 0
+18 / 0
 
 +5 pts for typo fix 32e316a
 +2 pts for typo fix 7cb0008
@@ -6,4 +6,5 @@
 +3 pts for 56c053a
 +3 pts for adding a syscall to checksyscalls.sh
 +2 pts for typo fix 33dbd2b
++2 pt for adding fchdir ti checksyscalls
 
